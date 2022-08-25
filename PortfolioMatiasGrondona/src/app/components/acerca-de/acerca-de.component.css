@@ -1,0 +1,38 @@
+.row{
+    padding: 20px;
+
+}
+
+div{
+    background-color: #e1bee7;
+    text-align: center;
+}
+
+/* Etiquieta nombre*/
+#nombre{
+    font-weight: bold;
+    margin-top: 20%;
+}
+
+
+/* */
+@media (min-width: 576px){
+    #profilePicture{
+        position: absolute;
+        width: 15%;
+        border-radius: 100%;
+        left: 3%;
+        top: 750px;
+    }
+}
+
+@media (max-width: 575px){
+    #profilePicture{
+        position: absolute;
+        width: 30%;
+        border-radius: 100%;
+        left: 33%;
+        top: 710px;
+    }
+}
+
