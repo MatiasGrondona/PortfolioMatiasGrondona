@@ -1,10 +1,9 @@
+.row{
+    padding: 20px;
+}
 div{
     background-color: #e1bee7;
     text-align: center;
-}
-
-.row{
-    padding: 20px;
 }
 
 /* Etiquieta nombre*/

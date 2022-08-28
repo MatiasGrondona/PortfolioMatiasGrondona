@@ -1,5 +1,10 @@
-img{
-    width: 35px;
-    margin-left: 5px;
-    margin-right: 5px;
+.row{
+    padding: 20px;
+}
+div{
+    background-color: #e1bee7
+}
+
+h1, h3{
+    display:inline;
 }
